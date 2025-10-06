@@ -4,3 +4,5 @@ This repository, **Hands-On Generative Modeling**, is designed for learning and 
 It focuses mainly on **tabular data** and provides **minimal examples** along with simple **training procedures**.  
 
 The goal of this repository is to help practitioners understand **how different generative models work** through concrete code examples, making the learning process practical and hands-on.
+
+NOTE: All the tutorials are generated from LLM, but I have proofread all of them, they should be easy to run without any errors. You are very welcome to report any issue&suggestions.
